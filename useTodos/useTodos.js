@@ -1,6 +1,6 @@
 import { useReducer, useRef, useEffect } from "react"
 
-import { todoReducer } from "../08-useReducer/todoRecuder"
+import { todoReducer } from "../todoRecuder"
 
 
 const init = () => {
